@@ -1,8 +1,8 @@
 body {
   margin: 0;
   padding: 60px 20px;
-  background: #353E43;
-  color: #353E43;
+  background: #353E53;
+  color: #231815;
   font-size: 18px;
 }
 
@@ -11,7 +11,7 @@ h1 {
   margin: 0 auto 24px;
   font-size: 32px;
   font-weight: 700;
-  color: #1a1a17;
+  color: #d9c9c4;
 }
 
 h2 {
@@ -19,11 +19,11 @@ h2 {
   margin: 32px auto 12px;
   font-size: 20px;
   font-weight: 600;
-  color: #7a4a2f;
+  color: #d9c9c4;
 }
 
 .sec-frame {
-	background: #F5EBD8;
+	background: #a5bcd6;
 	border: 1px solid;
 	max-width: 720px;
 	margin: 32px auto 12px;
@@ -37,15 +37,15 @@ p {
 }
 
 a {
-  color: #7a4a2f;
+  color: #231815;
   text-decoration: none;
   font-weight: 500;
-  border-bottom: 1px solid #d8c9b8;
+  border-bottom: 1px solid #231815;
   padding-bottom: 1px;
 }
 
 a:hover {
-  border-bottom-color: #7a4a2f;
+  border-bottom-color: #f5efc6;
 }
 
 a:focus-visible {
